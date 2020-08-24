@@ -1,0 +1,8 @@
+{
+  "name": "call-log",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
